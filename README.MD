@@ -1,6 +1,6 @@
 # Hello
 
-I am a Cloud Specialist with full Stack Development Experience
+I am a Cloud Specialist with Full-Stack Development Experience
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
